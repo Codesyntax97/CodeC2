@@ -11,6 +11,7 @@
     {"name": "Https", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
     {"name": "Kill", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
     {"name": "Mix", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Medusa", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
     {"name": "Nuclir", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
     {"name": "Storm", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
     {"name": "Strike", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
