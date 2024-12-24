@@ -5,8 +5,6 @@ apt update -y
 apt upgrade -y
 apt install screen -y
 apt install htop -y
-apt install python -y
-apt install python2 -y
 apt install python3 -y
 apt install pip -y
 apt install npm -y
