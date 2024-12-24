@@ -119,7 +119,7 @@ sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
 sudo apt -y install gcc g++ make
 sudo apt -y install htop vnstat
 sudo apt-get install -y unzip
-sudo apt -y install unrar
+sudo apt install -y build-essential
 npm i await-timeout
 npm i console-log-level
 npm i events
