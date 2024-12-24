@@ -9,7 +9,6 @@ apt install python -y
 apt install python2 -y
 apt install python3 -y
 apt install pip -y
-sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
 apt install npm -y
 npm i request
 npm i node-fetch
@@ -115,12 +114,10 @@ npm i puppeteer-extra-plugin-stealth
 npm i hpack
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt-get install ./google-chrome-stable_current_amd64.deb -y
-dpkg -i google-chrome-stable_current_amd64.deb
-sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
 sudo apt -y install gcc g++ make
 sudo apt -y install htop vnstat
 sudo apt-get install -y unzip
-sudo apt install -y build-essential
+sudo apt -y install unrar
 npm i await-timeout
 npm i console-log-level
 npm i events
@@ -142,4 +139,3 @@ npm i puppeteer-extra-plugin-adblocker
 npm i puppeteer
 sudo apt install -y gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils wget
 sudo apt-get install -y libgbm-dev
-ulimit -n 999999
