@@ -1,0 +1,18 @@
+[
+    {"name": "Tcp", "description": "layer 4 - Attack IP [normal]", "duration": "500"},
+    {"name": "Bomb", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Bypass", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Chaptcha", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Flood", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "H2-Fast", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Hold", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Hyper", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Http", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Https", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Kill", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Mix", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Nuclir", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Storm", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Strike", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "Tls", "description": "layer 7 - Attack Url [normal]", "duration": "500"}
+]
