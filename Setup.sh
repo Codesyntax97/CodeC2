@@ -115,6 +115,7 @@ npm i puppeteer-extra-plugin-stealth
 npm i hpack
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt-get install ./google-chrome-stable_current_amd64.deb -y
+dpkg -i google-chrome-stable_current_amd64.deb
 sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
 sudo apt -y install gcc g++ make
 sudo apt -y install htop vnstat
